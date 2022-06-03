@@ -2,4 +2,4 @@
 
 https://an-yay.github.io/My-Website/
 
-color-code -https://colorhunt.co/palette/151d3bd821486ebf8bdadbbd
+[Color Scheme](https://colorhunt.co/palette/8d8daadfdfdef7f5f2f56d91)
