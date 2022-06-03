@@ -2,4 +2,5 @@
 
 https://an-yay.github.io/My-Website/
 
-[Color Scheme](https://colorhunt.co/palette/8d8daadfdfdef7f5f2f56d91)
+[Color Scheme](https://colorhunt.co/palette/e9d5ca8273974d4c7d363062)
+
